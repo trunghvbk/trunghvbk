@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @trunghvbk
 - 👀 I’m interested in Mobile app development: iOS, Flutter, Android
-- 💞️ I’m looking to collaborate on iOS and Flutter
 - 📫 My email: trunghvbk@gmail.com, telegram: trunghvbk
